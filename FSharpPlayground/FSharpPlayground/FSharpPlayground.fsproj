@@ -51,6 +51,7 @@
   <ItemGroup>
     <None Include="Script.fsx" />
     <Compile Include="WebScraper.fs" />
+    <Compile Include="BytesPaddings.fs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
